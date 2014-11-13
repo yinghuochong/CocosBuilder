@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96A8A608-9CB9-49E6-A49A-77A73E276A97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CocosBuilderExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7513CF16-28EA-414F-BF3C-591CA9D535CE</key>
+		<string>git://github.com/cocos2d/CCBReader.git</string>
+		<key>FA662560-9683-4D09-B145-127E3C4D3EA1</key>
+		<string>ssh://github.com/yinghuochong/CocosBuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Examples/CocosBuilderExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7513CF16-28EA-414F-BF3C-591CA9D535CE</key>
+		<string>../../CocosBuilderExample/libs/CCBReader</string>
+		<key>FA662560-9683-4D09-B145-127E3C4D3EA1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/yinghuochong/CocosBuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA662560-9683-4D09-B145-127E3C4D3EA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7513CF16-28EA-414F-BF3C-591CA9D535CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CCBReader</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA662560-9683-4D09-B145-127E3C4D3EA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocosBuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
