@@ -45,7 +45,6 @@ NSString * const KMGSSyntaxDefinitionsFolder = @"Syntax Definitions";
 @implementation MGSSyntaxController
 
 @synthesize syntaxDefinitionNames;
-@synthesize syntaxDefinitions;
 
 static id sharedInstance = nil;
 

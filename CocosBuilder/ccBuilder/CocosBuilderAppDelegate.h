@@ -356,4 +356,10 @@ enum {
 - (void) modalStatusWindowFinish;
 - (void) modalStatusWindowUpdateStatusText:(NSString*) text;
 
+
+- (IBAction)CheckUnUsedFileControl:(id)sender;
+- (IBAction)CheckSameFileControl:(id)sender;
+- (IBAction)ReloadThisCCBControl:(id)sender;
+- (IBAction)ReloadAllCCBControl:(id)sender;
+
 @end

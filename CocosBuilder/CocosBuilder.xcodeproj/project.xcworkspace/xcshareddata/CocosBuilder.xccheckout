@@ -12,7 +12,9 @@
 	<dict>
 		<key>150A68F5D81F7D884442B46FF5668B805BE44A33</key>
 		<string>https://github.com/vlidholt/Fragaria.git</string>
-		<key>21D48039AB8DB0E2E80069F5DBBD5B7639B76892</key>
+		<key>56719348-3756-3640-a2d0-f5a2ded20425</key>
+		<string>https://118.192.76.99/svn/casino</string>
+		<key>6145FAA79691A8BD6E64A567D967488C4CB66E02</key>
 		<string>github.com:yinghuochong/CocosBuilder.git</string>
 		<key>ECFF97C7085E758E76254953D5CFA588773A129F</key>
 		<string>git://github.com/cocos2d/CCBReader.git</string>
@@ -22,20 +24,30 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>150A68F5D81F7D884442B46FF5668B805BE44A33</key>
-		<string>../../..CocosBuilder/libs/Fragaria/</string>
-		<key>21D48039AB8DB0E2E80069F5DBBD5B7639B76892</key>
+		<string>../../..CocosBuilder/libs/Fragaria</string>
+		<key>56719348-3756-3640-a2d0-f5a2ded20425</key>
+		<string>../../../..</string>
+		<key>6145FAA79691A8BD6E64A567D967488C4CB66E02</key>
 		<string>../../..</string>
 		<key>ECFF97C7085E758E76254953D5CFA588773A129F</key>
-		<string>../../..Examples/CocosBuilderExample/libs/CCBReader/</string>
+		<string>../../..Examples/CocosBuilderExample/libs/CCBReader</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:yinghuochong/CocosBuilder.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>21D48039AB8DB0E2E80069F5DBBD5B7639B76892</string>
+	<string>6145FAA79691A8BD6E64A567D967488C4CB66E02</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>56719348-3756-3640-a2d0-f5a2ded20425</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -48,7 +60,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>21D48039AB8DB0E2E80069F5DBBD5B7639B76892</string>
+			<string>6145FAA79691A8BD6E64A567D967488C4CB66E02</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CocosBuilder</string>
 		</dict>

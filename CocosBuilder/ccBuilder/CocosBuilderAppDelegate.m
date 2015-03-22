@@ -3754,6 +3754,47 @@ static BOOL hideAllToNextSeparator;
     [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:@"http://www.cocos2d-iphone.org/forum/forum/16"]];
 }
 
+
+#pragma Addtions Controls methods
+- (IBAction)CheckUnUsedFileControl:(id)sender
+{
+    
+}
+
+- (IBAction)CheckSameFileControl:(id)sender{
+    
+}
+
+- (IBAction)ReloadThisCCBControl:(id)sender
+{
+    NSLog(@"ReloadThisCCBControl");
+    /*
+     1、获取ccb文件，遍历该文件
+     2、遍历所有图片路径，检查是否存在
+     3、若不存在，遍历所有图片文件，若找不着写一个日志文件
+     4、若找到，替换现有路径
+     */
+    
+    
+    NSDictionary *directories = self.resManager.directories;
+    NSArray *activeDirectories = self.resManager.activeDirectories;
+    NSString *mainActiveDirectoryPath = self.resManager.mainActiveDirectoryPath;
+    
+    NSLog(@"%@ \n %@ \n %@",directories, activeDirectories, mainActiveDirectoryPath);
+    
+    for (int i = 0; i < activeDirectories.count; i++) {
+        NSLog(@"_____   %@",activeDirectories[i]);
+    }
+}
+
+- (IBAction)ReloadAllCCBControl:(id)sender
+{
+    NSLog(@"ReloadAllCCBControl");
+}
+
+
+
+
 #pragma mark Debug
 
 - (IBAction) debug:(id)sender
